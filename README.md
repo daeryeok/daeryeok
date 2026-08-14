@@ -1,16 +1,14 @@
-# daeryeok
+# Daeryeok
 
-<img src="dog-badge.webp" width="168" align="right" alt="Shepherd-pup badge avatar for Daeryeok Amara">
+<img src="dog-badge.webp" width="168" align="right" alt="Illustrated shepherd-pup avatar for Daeryeok">
 
 / dɛ.ɾjʌk / · *n.*
 
-1. one (1) **daeryeok amara** · vancouver, canada.
-2. origin: **[daeryeok.space](https://daeryeok.space/)**
+1. one (1) **daeryeok** · vancouver, canada.
+2. origin: **[Daeryeok](https://daeryeok.space/)**
 3. *the signal between the static.*
 
 k-cup enthusiast · paper-plane collector · 3.5% milk purist · wi-fi signal denier
-
-> real men test in prod. the realest live there.
 
 ---
 
@@ -38,14 +36,15 @@ k-cup enthusiast · paper-plane collector · 3.5% milk purist · wi-fi signal de
 
 ## signals
 
-- [instagram](https://www.instagram.com/daeryojji/)
-- [threads](https://www.threads.com/@daeryojji)
-- [telegram](https://t.me/daeryojji)
-- [x](https://x.com/daeryojji)
-- [linkedin](https://www.linkedin.com/in/daeryeok)
-- [facebook](https://www.facebook.com/daeryeok)
-- [email](https://contact.jja.ng/daeryeok)
+- [instagram · @daeryojji](https://www.instagram.com/daeryojji/)
+- [threads · @daeryojji](https://www.threads.com/@daeryojji)
+- [telegram · @daeryojji](https://t.me/daeryojji)
+- [x · @daeryojji](https://x.com/daeryojji)
+- [email · protected relay](https://contact.jja.ng/daeryeok)
+- [linkedin · @daeryeok](https://www.linkedin.com/in/daeryeok)
+- [github · @daeryeok](https://github.com/daeryeok)
+- [facebook · @daeryeok](https://www.facebook.com/daeryeok)
 
 ---
 
-<sub>fig. 1: a daeryeok, at rest. · © After Colony 195 · Daeryeok Amara</sub>
+<sub>fig. 1: a daeryeok, at rest.</sub>
