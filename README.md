@@ -5,8 +5,7 @@
 ### outposts
 
 [☕ cafe](https://daeryeok.cafe/) ·
-[☁️ loftlit](https://loftl.it/) ·
-[🐮 moomerize](https://moomerize.it/)
+[☁️ loftlit](https://loftl.it/)
 
 ### horizons
 
